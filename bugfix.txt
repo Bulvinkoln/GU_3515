@@ -1,3 +1,5 @@
 bug
 gfinish instruction
-(image.png)
+
+
+![yes](image.png)
