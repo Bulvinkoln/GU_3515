@@ -8,6 +8,6 @@
 Добавить файл, например Git_Instruction.md
 Написать инструкцию по работе с Git в файле и сохранить его
 Добавить файл в версионность git add Git_Instruction.md
-Закоммитить файл git commit -a "Добавлен файл Git_Instruction"
+Закоммитить файл git commit -m "Добавлен файл Git_Instruction"
 Сделать git push 
 Сделать Pull Request на Git Hub
